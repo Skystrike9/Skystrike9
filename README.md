@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skystrike9
+- 👋 Hi, I’m @Skystr1ke
 - 👀 I’m interested in game development and creating plugins for Neovim.
 - 🌱 I’m currently learning C++ and game development using Godot.
 
